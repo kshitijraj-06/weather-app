@@ -20,7 +20,7 @@ class WeatherApp extends StatefulWidget {
 
 class _WeatherAppState extends State<WeatherApp> {
   final String apiKey =
-      '960437de000ee1c797293d478704840f'; // OpenWeatherMap API Key
+      'API_KEY_HERE'; // OpenWeatherMap API Key
   var temperature;
   var description;
   var currently;
