@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/kshitijraj-06/weather-app/blob/main/Screenshot_20240229_190823.png" alt="project-screenshot" width="1547" height="3772/">
+<img src="https://github.com/kshitijraj-06/weather-app/blob/main/Screenshot_20240229_190823.png" alt="project-screenshot" width="1000" height="2000/">
 
   
   
