@@ -17,7 +17,7 @@ class WeatherApp extends StatefulWidget {
   @override
   State<WeatherApp> createState() => _WeatherAppState();
 }
-
+//temp comment (to be removed)
 class _WeatherAppState extends State<WeatherApp> {
   late LinearGradient _backgroundGradient;
   final String apiKey =
